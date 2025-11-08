@@ -1,0 +1,9 @@
+total 28
+drwxr-xr-x 2 root root 4096 Nov  8 23:08 .
+drwxr-xr-x 6 root root 4096 Nov  8 22:43 ..
+-rwxr--r-- 1 root root   35 Nov  8 22:50 1-lastlines
+-rwxr--r-- 1 root root   35 Nov  8 22:54 2-firstlines
+-rwxr--r-- 1 root root   42 Nov  8 23:04 3-third_line
+-rwxr--r-- 1 root root   36 Nov  8 23:08 4-cwd_state
+-rw-r--r-- 1 root root  916 Nov  8 22:57 iacta
+-rw-r--r-- 1 root root    0 Nov  8 23:08 ls_cwd_content
